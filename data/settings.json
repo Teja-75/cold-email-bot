@@ -1,0 +1,10 @@
+{
+    "sender_name": "Muddana Pravallika",
+    "sender_email": "dgh12@gmail.com",
+    "portfolio_url": "htps;//pravallika.github.io/",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 465,
+    "daily_limit": 20,
+    "min_delay_seconds": 45,
+    "max_delay_seconds": 90
+}

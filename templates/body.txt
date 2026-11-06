@@ -1,0 +1,14 @@
+Hi {{Name}},
+
+I hope you are doing well.
+
+My name is {{sender_name}}, and I am reaching out to express my interest in opportunities at {{Company}}.
+
+You can find my portfolio here: {{portfolio_url}}
+
+I have attached my resume for your review.
+
+Thank you for your time.
+
+Best regards,
+{{sender_name}}
